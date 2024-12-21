@@ -38,7 +38,7 @@ summary(model)
 
 ### Predictions and Evaluation
 library(Metrics)
-```{r predictions-evaluation, echo=TRUE, results='markup'}
+```{r predictions-evaluation, echo=TRUE, results='markup'} # nolint
 # Predictions
 tryCatch({
   predictions <- predict(model, newdata = testData)
