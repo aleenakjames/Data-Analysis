@@ -1,0 +1,6 @@
+{
+    "r.rterm.windows": "C:/Program Files/R/R-4.4.2/bin/R.exe",
+    "r.rterm.mac": "/usr/local/bin/R",
+    "r.rterm.linux": "/usr/bin/R",
+    "r.bracketedPaste": true
+  }  
